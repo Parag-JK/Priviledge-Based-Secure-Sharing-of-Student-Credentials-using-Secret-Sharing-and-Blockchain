@@ -1,0 +1,52 @@
+/*navbar*/
+
+.navbar {
+  display: flex;
+  padding: 0.5rem 1rem;
+  align-items: center;
+
+  
+}
+
+.walletIcon {
+  font-size: larger;
+  color: blueviolet;
+}
+
+.heading {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-left: -0.5rem;
+}
+
+.title {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.nav-box {
+  margin-left: auto;
+}
+
+.modal-icon {
+  padding: 0.8rem 1rem;
+  cursor: pointer;
+  border-radius: 100%;
+}
+
+.link-icon {
+  font-size: 150%;
+}
+
+.dropdown {
+  top: 40px !important;
+  margin-left: 2rem; 
+}
+.modal-icon:hover {
+  background-color: ghostwhite;
+}
+
+/* */
