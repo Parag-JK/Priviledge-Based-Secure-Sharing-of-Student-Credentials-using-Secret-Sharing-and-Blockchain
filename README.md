@@ -15,4 +15,7 @@ Use blockchain for immutability and transparency: The objective is to provide a 
 
 Examine scalability and efficiency: The purpose of this paper is to address scalability and efficiency issues associated with exchanging large numbers of student transcripts. The goal is to implement IPFS on distributed storage and improve system speed so that the system can manage a large number of requests and provide an effective release mechanism.
 
+![architecture](https://github.com/Parag-JK/Priviledge-Based-Secure-Sharing-of-Student-Credentials-using-Secret-Sharing-and-Blockchain/assets/116968138/c6bf04bb-6fbe-4371-9d9e-8982ddc80584)
+
+
 The system, which combines the benefits of blockchain for immutability and tamper-resistance, IPFS for decentralized and scalable file storage, and multi-secret sharing for data secrecy, offers a solid solution for the secure sharing of student credentials. The system can offer a dependable and effective mechanism for safeguarding student credentials, upholding privacy, and guaranteeing restricted access in educational settings and beyond by putting the suggested approach into practice and taking future research fields into account.
